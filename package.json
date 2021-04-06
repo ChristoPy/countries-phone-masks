@@ -1,0 +1,26 @@
+{
+  "name": "countries-phone-masks",
+  "version": "1.0.0",
+  "description": "Phone masks for all countries",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristoPy/countries-phone-masks.git"
+  },
+  "keywords": [
+    "mask",
+    "phone",
+    "i18n",
+    "masks",
+    "countries"
+  ],
+  "author": "Christopher Ribeiro <christo_campiglia@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristoPy/countries-phone-masks/issues"
+  },
+  "homepage": "https://github.com/ChristoPy/countries-phone-masks#readme"
+}
