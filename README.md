@@ -9,7 +9,7 @@ Any issues, kindly, consider creating an issue or a pull request.
 # Installation
 ```npm install countries-phone-masks```
 
-# Isage
+# Usage
 ```js
 const countries = require('countries-phone-masks')
 
