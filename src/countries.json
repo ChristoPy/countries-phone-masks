@@ -95,7 +95,7 @@
     "code": "+247",
     "iso": "AC",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/sh.svg",
-    "mask": "####"[a-z]*.svg
+    "mask": "####"
   },
   {
     "name": "Australia",
