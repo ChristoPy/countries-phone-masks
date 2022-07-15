@@ -651,7 +651,7 @@
     "code": "+44",
     "iso": "GG",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/gg.svg",
-    "mask": "##-####-####"
+    "mask": "(####)######"
   },
   {
     "name": "Guinea",
@@ -762,7 +762,7 @@
     "code": "+44",
     "iso": "IM",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/im.svg",
-    "mask": "##-####-####"
+    "mask": "(####)######"
   },
   {
     "name": "Israel",
@@ -810,7 +810,7 @@
     "code": "+44",
     "iso": "JE",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/je.svg",
-    "mask": "##-####-####"
+    "mask": "(####)####-######"
   },
   {
     "name": "Jordan",
@@ -1105,7 +1105,7 @@
     "code": "+1",
     "iso": "MS",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/ms.svg",
-    "mask": "(624)###-####"
+    "mask": "(664)###-####"
   },
   {
     "name": "Morocco",
