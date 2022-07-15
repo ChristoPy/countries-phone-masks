@@ -53,7 +53,7 @@
     "code": "+1",
     "iso": "AI",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/ai.svg",
-    "mask": "(224)###-####"
+    "mask": "(264)###-####"
   },
   {
     "name": "Antarctica",
@@ -188,6 +188,7 @@
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/bt.svg",
     "mask": [
       "17-###-###",
+      "77-###-###",
       "#-###-###"
     ]
   },
