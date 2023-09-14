@@ -1161,16 +1161,6 @@
     "mask": "##-###-####"
   },
   {
-    "name": "Netherlands Antilles",
-    "code": "+599",
-    "iso": "AN",
-    "flag": "https://cdn.kcak11.com/CountryFlags/countries/an.svg",
-    "mask": [
-      "###-####",
-      "9###-####"
-    ]
-  },
-  {
     "name": "New Caledonia",
     "code": "+687",
     "iso": "NC",
