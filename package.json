@@ -1,6 +1,6 @@
 {
   "name": "countries-phone-masks",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Phone masks for all countries",
   "main": "src/index.js",
   "scripts": {
