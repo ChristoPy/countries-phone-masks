@@ -1,18 +1,23 @@
 # Countries Phone Masks
-Phone masks, ISO codes and flags
+Phone masks, ISO codes and flags for all countries
 
-# Inspiration
+## Inspiration
 After the need to add international phone masks into an application, I stumbled upon many libraries but they seemed too outdated or just too complex to just give me the country code, country name, flag and phone mask.
 This list contains a hybrid of gists, libraries and wikipedia articles.
 Any issues, kindly, consider creating an issue or a pull request.
 
-# Installation
+## Installation
 ```npm install countries-phone-masks```
 
-# Usage
+## Import
 ```js
 const countries = require('countries-phone-masks')
+// or 
+import countries from 'countries-phone-masks'
+```
 
+## Usage
+```js
 console.log(countries.find(({ name }) => name === 'Brazil'))
 // {
 //   name: 'Brazil',

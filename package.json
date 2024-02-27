@@ -1,8 +1,9 @@
 {
   "name": "countries-phone-masks",
-  "version": "1.0.8",
-  "description": "Phone masks for all countries",
+  "version": "1.1.0",
+  "description": "Phone masks, ISO codes and flags for all countries",
   "main": "src/index.js",
+  "types": "types.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
