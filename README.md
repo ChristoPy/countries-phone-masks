@@ -31,10 +31,19 @@ Or using ES6 modules:
 import countries from "countries-phone-masks";
 ```
 
-The package also exports a type definition for TypeScript:
+The package also exports type definitions. With TypeScript:
 
 ```typescript
 import type { Country } from "countries-phone-masks";
+```
+
+Or using JSDoc:
+
+```javascript
+/** @param {import("countries-phone-masks").Country[]} countries */
+function filterCountriesByISO(countries) {
+  // ...
+}
 ```
 
 ## Usage
