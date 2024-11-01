@@ -518,7 +518,7 @@
     "code": "+298",
     "iso": "FO",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/fo.svg",
-    "mask": "###-###"
+    "mask": "## ## ##"
   },
   {
     "name": "Fiji",
@@ -532,42 +532,42 @@
     "code": "+358",
     "iso": "FI",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/fi.svg",
-    "mask": "(###)###-##-##"
+    "mask": "## ### ####"
   },
   {
     "name": "France",
     "code": "+33",
     "iso": "FR",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/fr.svg",
-    "mask": "(###)###-###"
+    "mask": "# ## ## ## ##"
   },
   {
     "name": "French Guiana",
     "code": "+594",
     "iso": "GF",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/gf.svg",
-    "mask": "#####-####"
+    "mask": "### ## ## ##"
   },
   {
     "name": "French Polynesia",
     "code": "+689",
     "iso": "PF",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/pf.svg",
-    "mask": "##-##-##"
+    "mask": "## ## ## ##"
   },
   {
     "name": "Gabon",
     "code": "+241",
     "iso": "GA",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/ga.svg",
-    "mask": "#-##-##-##"
+    "mask": "# ## ## ##"
   },
   {
     "name": "Gambia",
     "code": "+220",
     "iso": "GM",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/gm.svg",
-    "mask": "(###)##-##"
+    "mask": "### ####"
   },
   {
     "name": "Georgia",
@@ -583,11 +583,10 @@
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/de.svg",
     "mask": [
       "###-###",
-      "(###)##-##",
-      "(###)##-###",
-      "(###)##-####",
-      "(###)###-####",
-      "(####)###-####"
+      "(##) ####-####",
+      "(###) ####-####",
+      "(####) ###-####",
+      "(3####) ##-####"
     ]
   },
   {
@@ -595,7 +594,7 @@
     "code": "+233",
     "iso": "GH",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/gh.svg",
-    "mask": "(###)###-###"
+    "mask": "03# ### ####"
   },
   {
     "name": "Gibraltar",
@@ -630,14 +629,14 @@
     "code": "+590",
     "iso": "GP",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/gp.svg",
-    "mask": "(###)###-###"
+    "mask": "### ## ## ##"
   },
   {
     "name": "Guam",
     "code": "+1",
     "iso": "GU",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/gu.svg",
-    "mask": "(671)###-####"
+    "mask": "671 ### ####"
   },
   {
     "name": "Guatemala",
@@ -825,8 +824,9 @@
     "iso": "KZ",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/kz.svg",
     "mask": [
-      "(6##)###-##-##",
-      "(7##)###-##-##"
+      "(###) ### ## ##",
+      "(####) ## ## ##",
+      "(#####) # ## ##"
     ]
   },
   {
